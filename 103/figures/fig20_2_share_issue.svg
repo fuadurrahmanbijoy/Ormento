@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f7f2e8"/>
+<text x="450" y="55" text-anchor="middle" font-family="Georgia" font-size="28">Share issue above par</text>
+<text x="450" y="100" text-anchor="middle" font-family="Georgia" font-size="19">20,000 shares × Tk 12 issue price = Tk 240,000 cash</text>
+<rect x="105" y="150" width="690" height="70" rx="8" fill="#e9dfcf" stroke="#6b5a48" stroke-width="2"/>
+<text x="450" y="195" text-anchor="middle" font-family="Georgia" font-size="22">Cash received = Tk 240,000</text>
+<line x1="450" y1="220" x2="450" y2="280" stroke="#6b5a48" stroke-width="3"/><polygon points="450,280 442,266 458,266" fill="#6b5a48"/>
+<rect x="90" y="300" width="300" height="95" rx="8" fill="#eee6d8" stroke="#6b5a48"/><text x="240" y="338" text-anchor="middle" font-family="Georgia" font-size="21">Share capital</text><text x="240" y="370" text-anchor="middle" font-family="Georgia" font-size="20">20,000 × Tk 10 = Tk 200,000</text>
+<rect x="510" y="300" width="300" height="95" rx="8" fill="#eee6d8" stroke="#6b5a48"/><text x="660" y="338" text-anchor="middle" font-family="Georgia" font-size="21">Share premium</text><text x="660" y="370" text-anchor="middle" font-family="Georgia" font-size="20">20,000 × Tk 2 = Tk 40,000</text>
+<text x="450" y="460" text-anchor="middle" font-family="Georgia" font-size="20">Tk 200,000 + Tk 40,000 = Tk 240,000</text>
+</svg>

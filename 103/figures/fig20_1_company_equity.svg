@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f7f2e8"/>
+<text x="450" y="55" text-anchor="middle" font-family="Georgia" font-size="28" fill="#2d2925">Company ownership → shareholders' equity</text>
+<rect x="80" y="110" width="210" height="90" rx="8" fill="#e9dfcf" stroke="#6b5a48" stroke-width="2"/>
+<text x="185" y="145" text-anchor="middle" font-family="Georgia" font-size="21">Shareholders</text><text x="185" y="174" text-anchor="middle" font-family="Georgia" font-size="16">own shares</text>
+<rect x="345" y="110" width="210" height="90" rx="8" fill="#e9dfcf" stroke="#6b5a48" stroke-width="2"/>
+<text x="450" y="145" text-anchor="middle" font-family="Georgia" font-size="21">Company</text><text x="450" y="174" text-anchor="middle" font-family="Georgia" font-size="16">separate entity</text>
+<rect x="610" y="110" width="210" height="90" rx="8" fill="#e9dfcf" stroke="#6b5a48" stroke-width="2"/>
+<text x="715" y="145" text-anchor="middle" font-family="Georgia" font-size="21">Business</text><text x="715" y="174" text-anchor="middle" font-family="Georgia" font-size="16">assets & obligations</text>
+<line x1="290" y1="155" x2="345" y2="155" stroke="#6b5a48" stroke-width="3"/><polygon points="345,155 332,148 332,162" fill="#6b5a48"/>
+<line x1="555" y1="155" x2="610" y2="155" stroke="#6b5a48" stroke-width="3"/><polygon points="610,155 597,148 597,162" fill="#6b5a48"/>
+<text x="450" y="270" text-anchor="middle" font-family="Georgia" font-size="22">Equity records the shareholders' claim</text>
+<rect x="105" y="315" width="150" height="75" rx="6" fill="#eee6d8" stroke="#6b5a48"/><text x="180" y="359" text-anchor="middle" font-family="Georgia" font-size="18">Share capital</text>
+<rect x="280" y="315" width="150" height="75" rx="6" fill="#eee6d8" stroke="#6b5a48"/><text x="355" y="359" text-anchor="middle" font-family="Georgia" font-size="18">Share premium</text>
+<rect x="455" y="315" width="150" height="75" rx="6" fill="#eee6d8" stroke="#6b5a48"/><text x="530" y="359" text-anchor="middle" font-family="Georgia" font-size="18">Retained earnings</text>
+<rect x="630" y="315" width="150" height="75" rx="6" fill="#eee6d8" stroke="#6b5a48"/><text x="705" y="350" text-anchor="middle" font-family="Georgia" font-size="18">Treasury</text><text x="705" y="373" text-anchor="middle" font-family="Georgia" font-size="18">shares (−)</text>
+<text x="450" y="450" text-anchor="middle" font-family="Georgia" font-size="19">Together, these components explain how owners' equity was created and changed.</text>
+</svg>
